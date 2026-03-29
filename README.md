@@ -1,0 +1,1 @@
+this is the project where we will learn to implement data base in JAVA from scratch and this project will have multiple phases where each phase will greadually make the database better as we apply more complex and better methods on top of them.
